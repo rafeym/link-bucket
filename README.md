@@ -1,4 +1,4 @@
-# YGM Proto V1
+# Link Bucket
 
 This project was bootstrapped using create-next-app. This app allows users to store text and share it with friends or on the internet.
 Tech Stack: Next.js, React, MongoDB
